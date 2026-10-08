@@ -1,2 +1,6 @@
 Photo by Edgar Baltazar on Unsplash. https://unsplash.com/photos/a-variety-of-vegetables-are-on-display-in-baskets-8QaEi0-LJ3M
 Free Unsplash License: https://unsplash.com/license
+
+('donating-food.jpg', 'Sharing food', 'Volunteers distributing donated food at a community event', 'RDNE Stock project', '6646923', 'volunteers-giving-donations')
+('packing-donations.jpg', 'Preparing donations', 'Volunteers sorting and packing donated supplies', 'Julia M Cameron', '6995212', 'volunteers-preparing-donations')
+('preparing-meals.jpg', 'Preparing meals', 'Volunteers portioning food into takeaway meal containers', 'Julia M Cameron', '6995247', 'people-preparing-food-packs')
